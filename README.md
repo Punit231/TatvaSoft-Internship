@@ -67,8 +67,8 @@
 - Explored configuring deployment environments and strategies.
 - **Hands-on:** Created My Profile Page and prepared the project for deployment using various strategies.
 
-## Day 14: Discussion
-
-## Day 15: AWS Session
+## Day 14: AWS Session
 - Explored AWS services and deployment.
 - **Hands-on:** Expanded knowledge to include AWS services and deployment.
+
+## Day 15: Discussion
